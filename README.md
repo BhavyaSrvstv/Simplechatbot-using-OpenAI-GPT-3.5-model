@@ -31,7 +31,7 @@ User: Thanks for your help!
 Chatbot: You're welcome! Feel free to ask if you have any more questions.
 
 
-
+This was the 3rd project from :The AI Advantage(Igor Pogany)
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 
