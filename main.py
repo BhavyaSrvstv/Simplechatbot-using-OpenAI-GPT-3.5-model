@@ -8,7 +8,7 @@ messages=[{"role":"system","content":"You are a tech expert specialising in pyth
 
 def CustomChatGPT(user_input):
     messages.append({"role":"user","content":user_input})
-    response = openai.Completion.create(
+    response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=messages
     )
